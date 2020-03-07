@@ -5,5 +5,5 @@ to show different parameters just type
 Available params:    
  -a, --all              :to display all the info                                            
  -h, --file-header      : Display the ELF file header   																																																																																		
- -l, --program-headers: : Display the program headers   
+ -l, --program-headers: : Display the program headers                                                                                     
  -S, --section-headers  : Display the sections headers  
